@@ -1,0 +1,16 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d": "^1.0.1",
+    "jest": "^29.2.2"
+  }
+}
